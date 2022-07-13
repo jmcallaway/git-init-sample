@@ -1,0 +1,19 @@
+body {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	background: #fafafa;
+}
+
+.pokemon-card {
+	margin: 20px auto;
+	text-align: center;
+	width: 50%;
+	background: white;
+	border: 1px solid #f6f6f6;
+	padding: 10px;
+}
+
+header {
+	margin: 20px auto;
+	width: 50%;
+	text-align: center;
+}
