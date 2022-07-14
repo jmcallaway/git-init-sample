@@ -6,7 +6,8 @@ body {
 .pokemon-card {
 	margin: 20px auto;
 	text-align: center;
-	width: 50%;
+	width: 6.3cm;
+	height: 8.8cm;
 	background: white;
 	border: 1px solid #f6f6f6;
 	padding: 10px;
