@@ -81,3 +81,21 @@
 //	}
 // }
 // console.log('outside code block: ', age, name); // grabs global age/name
+
+//--------------------------------------------------------
+// function declaration (are 'hoisted' to the top)
+// function greet() {
+//	console.log('hello there');
+// }
+
+// function expression = storing function in a veritable, not hoisted (always has ; at the end)
+// const speak = function (name = 'luigi', time = 'night') {
+//	console.log(`good ${time} ${name}`);
+// };
+// speak('jessie', "evening"); -> need to be called in order they are declared in the function
+
+// const calcArea = function (radius) {
+//	return 3.14 * radius ** 2;
+// };
+// const a = calcArea(5);
+// console.log(a);
